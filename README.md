@@ -53,7 +53,7 @@ python -m streamlit run app.py
 
 The app will start and open in your browser at:
 
-[http://localhost:8501](http://localhost:8501)
+http://localhost:8502/
 
 📂 Project Structure
 todo-streamlit-app
