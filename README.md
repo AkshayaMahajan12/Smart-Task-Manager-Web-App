@@ -35,7 +35,7 @@ CSV File Storage
 
 Clone this repository
 
-git clone https://github.com/yourusername/todo-streamlit-app.git
+git clone https://github.com/AkshayaMahajan12/todo-streamlit-app.git
 
 Navigate to the project folder
 
@@ -53,7 +53,7 @@ python -m streamlit run app.py
 
 The app will start and open in your browser at:
 
-http://localhost:8502
+[http://localhost:8501](http://localhost:8501)
 
 📂 Project Structure
 todo-streamlit-app
