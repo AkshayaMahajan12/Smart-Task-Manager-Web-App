@@ -1,4 +1,4 @@
-🚀 Smart To-Do Manager
+🚀 **Smart To-Do Manager**
 
 A simple and efficient web-based task management application built using Python and Streamlit.
 This app helps users organize their daily tasks, set priorities, track deadlines, and monitor progress.
